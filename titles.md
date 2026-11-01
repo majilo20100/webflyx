@@ -1,8 +1,4 @@
-# Titles
-
-- A River Runs Through It
-- Fight Club
-cat > titles.md << 'EOF' 
+cat > titles.md << 'EOF'
 # Titles
 
 - A River Runs Through It
